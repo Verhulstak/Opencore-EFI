@@ -1,4 +1,4 @@
-This is my main pc's opencore efi  
+This is my main pc's opencore efi for macos 15  
 Specs:  
 Asus prime b550 plus  
 ryzen 5 5600   
